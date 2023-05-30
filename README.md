@@ -33,5 +33,5 @@ A database will need to be created first then seeded wih data.
 
 Githud https://github.com/LatinLady/MVC.git
 
-# Contact 
+
 
